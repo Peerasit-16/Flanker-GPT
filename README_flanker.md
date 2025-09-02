@@ -16,7 +16,7 @@ If you run locally, please modify the file paths in the notebooks accordingly.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 - `model.py` – GPT model adapted from nanoGPT.  
 - `flanker_layouts.txt` – Library of 128 symmetric layouts.  
@@ -36,8 +36,3 @@ If you run locally, please modify the file paths in the notebooks accordingly.
 - Python 3.10  
 - PyTorch ≥ 2.0  
 - NumPy, Pandas, Matplotlib  
-
-You can install dependencies manually, or via:
-
-```bash
-pip install -r requirements.txt
